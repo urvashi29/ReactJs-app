@@ -8,7 +8,7 @@ class App extends Component {
         <h1 className='div-class'>Hi, I am React App!</h1>
         <button className='button-app'>Switch Users</button>
         <CardOne name='Urvashi' age='20' />
-        <CardTwo name='Rastogi' age='20' designation="Photographer" />
+        <CardTwo name='Rastogi' age='20' profession="Photographer" />
       </div>
     );
   }

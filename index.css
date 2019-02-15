@@ -23,7 +23,7 @@ code {
   margin: auto;
   height: 120px;
   width: 320px;
-  box-shadow: 4px 4px 4px #282c34;
+  box-shadow: 4px 5px 5px grey;
   border: 2px solid gray;
   padding-top: 40px;
   margin-top: 20px;
